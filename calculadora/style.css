@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.primeira-sessao button{
+    padding: 10px;
+    border-radius: 100%;
+    border: 0;
+}
+
+.segunda-sessao button{
+    padding: 10px;
+    border-radius: 100%;
+    border: 0;
+}
+
+.terceira-sessao button{
+    padding: 10px;
+    border-radius: 100%;
+    border: 0;
+}
+
+.quarta-sessao button{
+    padding: 10px;
+    border-radius: 100%;
+    border: 0;
+}
